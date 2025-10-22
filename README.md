@@ -9,6 +9,7 @@
 | 01 | QR Code Component | HTML, CSS | [Repo](https://github.com/jmunozw/frontend-mentor-01-qr-code-component-main) | [Live](https://jmunozw.github.io/frontend-mentor-01-qr-code-component-main/) |
 | 02 | Blog Preview Card | HTML, CSS | [Repo](https://github.com/jmunozw/frontend-mentor-02-blog-preview-card-main) | [Live](https://jmunozw.github.io/frontend-mentor-02-blog-preview-card-main/) |
 | 03 | Social links profile | HTML, CSS | [Repo](https://github.com/jmunozw/frontend-mentor-03-social-links-profile-main) | [Live](https://jmunozw.github.io/frontend-mentor-03-social-links-profile-main/) |
+| 04 | Recipe page | HTML, CSS | [Repo](https://github.com/jmunozw/frontend-mentor-04-recipe-page-main) | [Live](https://jmunozw.github.io/frontend-mentor-04-recipe-page-main/) |
 
 ---
 
@@ -23,7 +24,7 @@
 ## 👤 Autor
 
 **Jorge Luis Muñoz Wunder** 
-💼 [GitHub @jmunozw](https://github.com/jmunozw)  
+💼 [GitHub @jmunozw](https://github.com/jmunozw)
 💬 Aprendiendo, creando y mejorando cada día en el mundo del Frontend.
 
 ---
