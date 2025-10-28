@@ -32,6 +32,7 @@ Estoy completando las rutas oficiales de Frontend Mentor, que agrupan los proyec
 | # | Proyecto | Tecnologías | Código | Demo |
 |---|-----------|--------------|--------|------|
 | 05 | Product Preview Card Component | HTML, Sass, CSS Grid | [Repo](https://github.com/jmunozw/frontend-mentor-05-product-preview-card-component-main) | [Live](https://jmunozw.github.io/frontend-mentor-05-product-preview-card-component-main/) |
+| 06 | Four Card Feature Section | HTML, Sass, CSS Grid | [Repo](https://github.com/jmunozw/frontend-mentor-06-four-card-feature-section-master) | [Live](https://jmunozw.github.io/frontend-mentor-06-four-card-feature-section-master/) |
 
 ---
 
