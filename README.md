@@ -11,6 +11,7 @@ Estoy completando las rutas oficiales de Frontend Mentor, que agrupan los proyec
 
 1. **Getting Started on Frontend Mentor** → primeros pasos, fundamentos de HTML y CSS.  
 2. **Building Responsive Layouts** → estructura profesional, mobile first, Sass y diseño adaptable.
+3. **JavaScript Essentials & Interactivity** → DOM, eventos, accesibilidad, componentes interactivos.
 
 ---
 
@@ -36,6 +37,11 @@ Estoy completando las rutas oficiales de Frontend Mentor, que agrupan los proyec
 | 07 | Testimonials Grid Section | HTML, Sass, CSS Grid | [Repo](https://github.com/jmunozw/frontend-mentor-07-testimonials-grid-section-main) | [Live](https://jmunozw.github.io/frontend-mentor-07-testimonials-grid-section-main/) |
 | 08 | Meet Landing Page | HTML, SCSS, Mobile First, Accesibilidad | [Repo](https://github.com/jmunozw/frontend-mentor-08-meet-landing-page) | [Live](https://jmunozw.github.io/frontend-mentor-08-meet-landing-page/) |
 
+### ⚡ Ruta 3 – *JavaScript Essentials & Interactivity*
+
+| # | Proyecto | Tecnologías | Código | Demo |
+|---|-----------|--------------|--------|------|
+| 09 | Article Preview Component | HTML, SCSS, JS (DOM, accesibilidad, responsive avanzado) | [Repo](https://github.com/jmunozw/frontend-mentor-09-article-preview-component-master) | [Live](https://jmunozw.github.io/frontend-mentor-09-article-preview-component-master/) |
 ---
 
 ### 🧠 Cómo trabajo
